@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background-image: url('./smartvart.jpeg');
+  backdrop-filter: blur(5%);
+  text-align: center;
 }
 
 code {

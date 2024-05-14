@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  height: 100vh; /* app کل صفحه رو بگیره */
+  background-color: inherit;
+    backdrop-filter: blur(8px);
+    background-attachment: fixed;
+    overflow: scroll;
+    background-repeat: no-repeat;
 }
 
 .App-logo {
